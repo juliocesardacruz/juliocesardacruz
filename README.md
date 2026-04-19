@@ -77,6 +77,7 @@ Tenho experiência em:
 📌 Cloud Computing
 📌 Automação com scripts
 📌 Redes e segurança
+📌 Ciência de Dados e Big Data Analytics
 
 ---
 
