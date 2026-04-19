@@ -33,6 +33,8 @@ Tenho experiência em:
 ![TCP/IP](https://img.shields.io/badge/Networking-TCP/IP-blue?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware-Manutenção-informational?style=for-the-badge)
 ![Help Desk](https://img.shields.io/badge/HelpDesk-Suporte_Técnico-success?style=for-the-badge)
+![Help Desk](https://img.shields.io/badge/HelpDesk-Analista_Suporte-success?style=for-the-badge)
+
 
 ### Ferramentas
 
