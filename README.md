@@ -1,12 +1,12 @@
 # 👨‍💻 Julio Cesar da Cruz
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Técnico+de+Suporte+em+TI;Infraestrutura+de+TI;Help+Desk+e+Suporte+ao+Usuário;Sempre+aprendendo+novas+tecnologias" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Técnico+de+Suporte+em+TI;Infraestrutura+de+TI;Analista+de+TI;Help+Desk+e+Suporte+ao+Usuário;Sempre+aprendendo+novas+tecnologias" />
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou profissional da área de **Tecnologia da Informação** com foco em **Suporte Técnico, Infraestrutura e Help Desk**.
+Sou profissional da área de **Tecnologia da Informação** com foco em **Suporte Técnico, Infraestrutura, Analista de TI e Help Desk**.
 
 Tenho experiência em:
 
@@ -33,7 +33,7 @@ Tenho experiência em:
 ![TCP/IP](https://img.shields.io/badge/Networking-TCP/IP-blue?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Hardware-Manutenção-informational?style=for-the-badge)
 ![Help Desk](https://img.shields.io/badge/HelpDesk-Suporte_Técnico-success?style=for-the-badge)
-![Help Desk](https://img.shields.io/badge/HelpDesk-Analista_Suporte-success?style=for-the-badge)
+![Help Desk](https://img.shields.io/badge/HelpDesk-Analista_de_TI-success?style=for-the-badge)
 
 
 ### Ferramentas
